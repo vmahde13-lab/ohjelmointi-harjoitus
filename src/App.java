@@ -4,6 +4,8 @@ public class App
  {
     public static void main(String[] args) throws Exception {
     
+    System.out.println("Github juttu :D !");
+
     Scanner in = new Scanner(System.in);
     int counter = 0;
 
